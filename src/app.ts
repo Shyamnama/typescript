@@ -3,7 +3,7 @@ const anchor = document.querySelector("a")!;
 console.log(anchor.href);
 
 const form = document.querySelector(".new-item-form") as HTMLFormElement;
-// console.log(form.children);
+console.log(form.children);
 
 //inputs
 
