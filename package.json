@@ -1,5 +1,5 @@
 {
-  "name": "Typescript",
+  "name": "typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "typescript": "^3.9.3"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
